@@ -39,4 +39,4 @@ The challenge here was that the game doesn't store in RAM any information when t
 
 RillAi managed to beat the Platinum Relic bots 100 times in a row, and get a few perfect rounds. RillAi won every round when facing one of the best Crash Bash players in the world for one hour.
 
-This repository contains a pre-trained model with over 100h of training.
+This repository contains a pre-trained model with over 100h of training, and some statistics collected during that training.
